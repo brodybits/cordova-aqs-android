@@ -26,7 +26,6 @@ Enforce use of secret bridge code, like the Cordova framework does.
 ## Other major limitations
 
 - No queueing built-in
-- Ugly 404 ("not found") error message(s) in DevTools console
 
 ## Related project(s)
 
